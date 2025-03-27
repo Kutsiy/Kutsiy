@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Egor! 👋
 
-<!--
-**Kutsiy/Kutsiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+- **Frontend**: Angular, React  
+- **Backend**: NestJS  
+- **Programming Languages**: JavaScript, TypeScript  
+- **Additional**: HTML, CSS, SCSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+
+-  PetP  
+ **[PetP](https://github.com/Kutsiy/PetP)**  
+
+-  Backend for my pet project  
+ **[BackendForPetProject](https://github.com/Kutsiy/BackendForPetProject)**  
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kutsiy&show_icons=true&theme=radical)
