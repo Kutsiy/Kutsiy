@@ -13,7 +13,10 @@
  **[PetP](https://github.com/Kutsiy/PetP)**  
 
 -  Backend for my pet project  
- **[BackendForPetProject](https://github.com/Kutsiy/BackendForPetProject)**  
+ **[BackendForPetProject](https://github.com/Kutsiy/BackendForPetProject)**
+
+-  NxWebApp  
+ **[NxWebApp]([https://github.com/Kutsiy/BackendForPetProject](https://github.com/Kutsiy/NxWedApp))**
 
 
 ## 📈 GitHub Stats
