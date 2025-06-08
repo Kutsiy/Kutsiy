@@ -2,7 +2,7 @@
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: Angular, React  
+- **Frontend**: Angular, React, Next  
 - **Backend**: NestJS  
 - **Programming Languages**: JavaScript, TypeScript  
 - **Additional**: HTML, CSS, SCSS  
