@@ -16,7 +16,7 @@
  **[BackendForPetProject](https://github.com/Kutsiy/BackendForPetProject)**
 
 -  NxWebApp  
- **[NxWebApp]([https://github.com/Kutsiy/BackendForPetProject](https://github.com/Kutsiy/NxWedApp))**
+ **[NxWebApp](https://github.com/Kutsiy/NxWedApp)**
 
 
 ## 📈 GitHub Stats
