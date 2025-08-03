@@ -67,7 +67,7 @@
 
 ## 🌍 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](e.kutsiy.dev@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.kutsiy.dev@gmail.com)  
 
 ---
 
