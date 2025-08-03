@@ -47,7 +47,7 @@
 ## 📂 Featured Projects
 
 ### 🐾 PetP  
-📌 **[PetP Repository](https://github.com/Kutsiy/PetP)** – Pet management platform built with Angular & NestJS.  
+📌 **[PetP Repository](https://github.com/Kutsiy/PetP)** – Pet project built with Angular & NestJS.  
 
 ### ⚙ BackendForPetProject  
 📌 **[Repository](https://github.com/Kutsiy/BackendForPetProject)** – REST API backend for PetP with NestJS & MongoDB.  
@@ -67,8 +67,7 @@
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](e.kutsiy.dev@gmail.com)  
 
 ---
 
