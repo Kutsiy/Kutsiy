@@ -53,7 +53,7 @@
 📌 **[Repository](https://github.com/Kutsiy/BackendForPetProject)** – REST API backend for PetP with NestJS & MongoDB.  
 
 ### 🛠 NxWebApp  
-📌 **[Repository](https://github.com/Kutsiy/NxWedApp)** – Modular monorepo web application with Nx workspace.
+📌 **[Repository](https://github.com/Kutsiy/NxWedApp)** – Business card website
 
 ---
 
