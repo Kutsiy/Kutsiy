@@ -60,7 +60,9 @@
 ## 📊 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kutsiy&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=Kutsiy&theme=radical)  
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kutsiy&layout=compact&theme=radical)</p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutsiy&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
