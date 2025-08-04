@@ -76,9 +76,8 @@
 
 - 💻 Started coding at a young age and never stopped  
 - 🌱 I treat every project as an opportunity to learn something new  
-- 🎯 I love solving complex problems with simple, elegant solutions  
-- 🐧 Linux enthusiast
-
+- 🎯 I love solving complex problems with simple, elegant solutions
+- 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kutsiy&color=ff69b4&style=for-the-badge)
