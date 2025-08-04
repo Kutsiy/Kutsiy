@@ -11,9 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="center"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> </p>  
 
 **Backend:**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -77,7 +75,7 @@
 - 💻 Started coding at a young age and never stopped  
 - 🌱 I treat every project as an opportunity to learn something new  
 - 🎯 I love solving complex problems with simple, elegant solutions
-- 
+  
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kutsiy&color=ff69b4&style=for-the-badge)
