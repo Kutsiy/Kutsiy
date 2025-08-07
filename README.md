@@ -1,6 +1,6 @@
 # Hi, I'm Egor! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4BAB27AB&background=136F122D&center=true&vCenter=true&width=710&lines=Full-Stack+Developer;Frontend%3A+Angular+%7C+React+%7C+Next.js;Backend%3A+NestJs;Languages%3A+JavaScript+%7C+TypeSctipt+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4BAB27AB&background=136F122D&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Frontend%3A+Angular+%7C+React+%7C+Next.js;Backend%3A+NestJs;Languages%3A+JavaScript+%7C+TypeSctipt+%7C+Python)](https://git.io/typing-svg)
 
 🚀 Passionate about building modern web apps and backend services  
 💡 Always learning & experimenting with new technologies  
