@@ -123,20 +123,21 @@ Repository: [BackendForPetProject](https://github.com/Kutsiy/BackendForPetProjec
 
 ---
 
-## GitHub Stats & Activity
+## ⚡ GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kutsiy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kutsiy&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kutsiy&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kutsiy&theme=radical" alt="GitHub Streak"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutsiy&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kutsiy&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutsiy&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kutsiy&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
 ---
 
 ## Let's Connect
